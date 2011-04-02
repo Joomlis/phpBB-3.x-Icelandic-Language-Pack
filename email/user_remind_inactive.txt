@@ -1,0 +1,11 @@
+Subject: Áminning um óvirkann notanda
+
+Halló {USERNAME},
+
+Þann {REGISTER_DATE} skráðirðu nýjan aðgang á "{SITENAME}". Aðgangurinn hefur ekki enn verið virkjaður sem er nauðsyn til að geta skráð sig inn á spjallborðið. Til hægðarauka er hlekkurinn til að virkja aðganginn hér að neðan.
+
+{U_ACTIVATE}
+
+Takk fyrir að skrá þig á "{SITENAME}", við hlökkum til að fá þig í hópinn.
+
+{EMAIL_SIG}

@@ -1,0 +1,8 @@
+Subject: Tilkynningu lokað - "{POST_SUBJECT}"
+
+Halló {USERNAME},
+
+Tilkynningu þinni um póstinn "{POST_SUBJECT}" í "{TOPIC_TITLE}" á "{SITENAME}" hefur verið tekin fyrir af umsjónarmönnum og tilkynningunni því lokað.  Ef þú hefur frekari spurningar hafðu þá samband við {CLOSER_NAME}.
+
+
+{EMAIL_SIG}

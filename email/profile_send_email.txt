@@ -1,0 +1,12 @@
+Halló {TO_USERNAME},
+
+Eftirfarandi er tölvupóstur sendur frá {FROM_USERNAME} í gegnum aðgang þinn á "{SITENAME}".  Ef þú telur þessi skilaboð vera ruslpóst eða að einhverju leiti óviðeigandi skaltu hafa samband við umsjónarmenn á eftirfarandi netfangi:
+
+{BOARD_CONTACT}
+
+Láttu allan tölvupóstinn fylgja með ásamt bréfhausum.  Vinsamlegast athugaðu að netfang sendanda þessa tölvupósts er netfang notandans {FROM_USERNAME}.
+
+Skilaboðin til þín eru eftirfarandi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

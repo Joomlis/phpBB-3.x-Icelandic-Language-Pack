@@ -1,0 +1,41 @@
+Subject: Velkomin(n) á "{SITENAME}"
+
+{WELCOME_MSG}
+
+Til að fara eftir reglum COPPA þá er aðgangur þinn óvirkur í augnablikinu.
+
+Vinsamlegast prentaðu út þessi skilaboð og láttu foreldra eða umboðsmann fylla það út. Og faxa það svo til: 
+
+{FAX_INFO}
+
+Eða senda í pósti til: 
+
+{MAIL_INFO}
+
+------------------------------ KLIPPA HÉR ------------------------------
+Leyfi til að taka þátt í "{SITENAME}" - {U_BOARD}
+
+Notendanafn: {USERNAME}
+Tölvupóstfang: {EMAIL_ADDRESS}
+
+Ég hef farið yfir upplýsingarnar gefnar upp af barni mínu og hér með gef leyfi til "{SITENAME}" að geyma þessar upplýsingar
+Ég skil að þessar upplýsingar geta breyst hvenær sem er með því að skrifa lykilorð.
+Ég skil að ég get beðið um að þessi gögn verði fjarlægð af "{SITENAME}" hvenær sem er.
+
+
+Foreldri eða umráðamaður
+Nafn (prentstafir): _____________________
+
+(Undirskrift): __________________ 
+
+Dagsetning: _______________
+
+------------------------------ KLIPPA HÉR ------------------------------
+
+Þegar stjórnandinn hefur móttekið efnið hér að ofan, með faxi eða venjulegum póst, verður aðgangurinn gerður virkur.
+
+Vinsamlegast mundu að lykilorð þitt er dulkóðað í gagnagrunni okkar og við getum ekki fundið það fyrir þig. Hinsvegar, ef þú gleymir lykilorðinu þá geturu beðið um nýtt, sem verður að virkja alveg eins og þennan aðgang.
+
+Takk fyrir að skrá þig.
+
+{EMAIL_SIG}

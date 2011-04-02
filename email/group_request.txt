@@ -1,0 +1,10 @@
+Subject: Beiðni um að fá aðgang að hópnum þínum
+
+Kæri {USERNAME},
+
+Notandi hefur beðið um að fá aðgang að hópnum "{GROUP_NAME}" sem þú stýrir á "{SITENAME}".
+Til að samþykkja eða hafna beiðninni skaltu kíkja á eftirfarandi hlekk:
+
+{U_PENDING}
+
+{EMAIL_SIG}

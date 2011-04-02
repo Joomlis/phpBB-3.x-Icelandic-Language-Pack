@@ -1,0 +1,17 @@
+Subject: Velkomin(n) á "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vinsamlegast geymdu þennan tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
+
+----------------------------
+Notandanafn: {USERNAME}
+
+Slóð á spjallborð: {U_BOARD}
+----------------------------
+
+Vinsamlegast gleymdu ekki lykilorðinu því að það er dulkóðað í gagnagrunni okkar og við getum ekki flett því upp. Hinsvegar ef þú gleymir lykilorðinu þínu þá getur þú beðið um að fá nýtt lykilorð sem er virkjað á sama hátt og aðgangurinn þinn.
+
+Takk fyrir að skrá þig.
+
+{EMAIL_SIG}

@@ -1,0 +1,7 @@
+Subject: Aðgangur þinn hefur verið gerður óvirkur
+
+Halló {USERNAME},
+
+Aðgangur þinn á "{SITENAME}" hefur verið gerður óvirkur, væntanlega vegna breytinga á stillingunum þínum.  Umsjónarmaður spjallborðsins þarf að gera aðganginn virkan áður en þú getur skráð þig inn.  Þú færð aðra tilkynningu þegar það gerist.
+
+{EMAIL_SIG}

@@ -1,0 +1,7 @@
+Subject: Aðgangur virkjaður
+
+Sæl(l) {USERNAME},
+
+Aðgangur þinn á "{SITENAME}" hefur verið gerður virkur, þú getur nú skráð þig inn með notandanafninu og lykilorðinu sem þú fékkst sent í hinum tölvupóstinum (eða notaðir við skráninguna).
+
+{EMAIL_SIG}

@@ -1,0 +1,18 @@
+Subject: Endurvirkja aðgang á "{SITENAME}"
+
+Spjallborðsstjóri hefur beðið um að endurvirkja aðgang þinn. Aðgangur þinn er óvirkur sem stendur. 
+Vinsamlegast fylgdu eftirfarandi skrefum til að endurvirkja aðganginn þinn.
+
+Vinsamlegast geymdu þennann tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
+
+----------------------------
+Notandanafn: {USERNAME}
+----------------------------
+
+Vinsamlegast gleymdu ekki lykilorði þínu því það er dulkóðað í gagnagrunni okkar og við getum ekki flett því upp. Hinsvegar ef þú gleymir lykilorðinu þínu þá getur þú beðið um að fá nýtt lykilorð sem er virkjað á sama hátt og aðgangurinn þinn.
+
+Vinsamlegast farðu á eftirfarandi hlekk til að endurvirkja aðganginn:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

@@ -1,0 +1,12 @@
+Subject: Pósti hafnað - "{POST_SUBJECT}"
+
+Halló {USERNAME},
+
+Tilkynning um að pósti þínum "{POST_SUBJECT}" á "{SITENAME}" hefur verið hafnað af umsjónarmönnum.
+
+Eftirfarandi ástæða var gefinn fyrir höfnuninni:
+
+{REASON}
+
+
+{EMAIL_SIG}

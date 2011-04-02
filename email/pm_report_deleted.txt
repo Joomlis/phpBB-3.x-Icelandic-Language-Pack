@@ -1,0 +1,8 @@
+Subject: Skýrslu eytt - "{PM_SUBJECT}"
+
+Halló {USERNAME},
+
+Þú ert að fá þessa tilkynningu vegna þess að skýrsla sem þú sendir inn varðandi "{PM_SUBJECT}" á {SITENAME} hefur verið eytt af póststjóra eða stjórnanda.
+
+
+{EMAIL_SIG}

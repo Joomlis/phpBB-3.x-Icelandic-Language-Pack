@@ -1,0 +1,12 @@
+Halló {TO_USERNAME},
+
+Eftirfarandi er skilaboð eru send frá {FROM_USERNAME} í gegnum aðgang þinn á "{SITENAME}".  Ef þú telur þessi skilaboð vera ruslpóst eða að einhverju leiti óviðeigandi skaltu hafa samband við umsjónarmenn á eftirfarandi netfangi:
+
+{BOARD_CONTACT}
+
+Láttu öll skilaboðin.  Vinsamlegast athugaðu að netfang sendanda þessa skilaboða er IM netfang spjallborðsins.
+
+Skilaboðin til þín eru eftirfarandi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

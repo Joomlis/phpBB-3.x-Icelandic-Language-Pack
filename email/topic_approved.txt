@@ -1,0 +1,11 @@
+Subject: Umræða samþykkt - "{TOPIC_TITLE}"
+
+Halló {USERNAME},
+
+Umræðan þín, "{TOPIC_TITLE}" á "{SITENAME}" hefur verið samþykkt.
+
+Smelltu á eftirfarandi hlekk ef þú vilt skoða umræðuna:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

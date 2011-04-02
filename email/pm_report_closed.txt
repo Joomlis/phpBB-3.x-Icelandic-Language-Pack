@@ -1,0 +1,8 @@
+Subject: Skýrslu Lokað - "{PM_SUBJECT}"
+
+Halló {USERNAME},
+
+Þú ert að fá þetta skilaboð því þú sendir inn skýrslu um einkaskilaboðið "{PM_SUBJECT}" á "{SITENAME}" sem hefur verið farið yfir af póststjóra eða stjórnanda. Skrýrslunni er nú lokið. Ef þú hefur frekari spurningar hafðu samband við {CLOSER_NAME} með einkaskilaboði.
+
+
+{EMAIL_SIG}

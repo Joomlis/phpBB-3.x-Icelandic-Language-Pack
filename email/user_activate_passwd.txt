@@ -1,0 +1,17 @@
+Subject: Virkjun á nýu lykilorði
+
+Halló {USERNAME}
+
+Þú færð þessa tilkynningu vegna þess að þú (eða einhver sem þykist vera þú) hefur beðið um nýtt lykilorð fyrir aðgang þinn á "{SITENAME}".  Ef þú hefur ekki beðið um þetta þá skaltu henda þessari tilkynningu.  Ef þú heldur áfram að fá þessar tilkynningar skaltu hafa samband við umsjónarmenn spjallborðsins.
+
+Til að nota nýja lykilorðið verður þú að virkja það með því að smella á eftirfarandi hlekk:
+
+{U_ACTIVATE}
+
+Ef það tekst þá muntu geta skráð þig inn með eftirfarandi lykilorði:
+
+Lykilorð: {PASSWORD}
+
+Þú getur einnig breytt þessu lykilorði á stillingasíðunni.  Ef þú lendir í vandræðum skaltu hafa samband við umsjónarmenn.
+
+{EMAIL_SIG}

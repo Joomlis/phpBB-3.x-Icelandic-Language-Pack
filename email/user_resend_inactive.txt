@@ -1,0 +1,20 @@
+Subject: Velkomin(n) á "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vinsamlegast geymdu þennan tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
+
+----------------------------
+Notandanafn: {USERNAME}
+----------------------------
+
+Lykilorð þitt hefur verið dulkóðað og sett í gagnagrunn okkar. Ef þú gleymir því þá getur þú beðið um nýtt sem verður virkjað á sama hátt og þessi aðgangur.
+
+Aðgangur þinn er óvirkur í augnablikinu. Þú getur ekki notað hann fyrr en þú ferð á eftirfarandi hlekk:
+
+{U_ACTIVATE}
+
+
+Takk fyrir að skrá þig.
+
+{EMAIL_SIG}

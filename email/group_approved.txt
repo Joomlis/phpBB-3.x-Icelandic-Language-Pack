@@ -1,0 +1,10 @@
+Subject: Beiðni þín hefur verið samþykkt
+
+Til hamingju,
+
+Beiðni þín um að fá aðgang að hópnum "{GROUP_NAME}" á "{SITENAME}" hefur verið samþykkt.
+Smelltu á eftirfarandi hlekk til að skoða skráninguna þína.
+
+{U_GROUP}
+
+{EMAIL_SIG}

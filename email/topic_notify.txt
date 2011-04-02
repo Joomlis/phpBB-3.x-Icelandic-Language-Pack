@@ -1,0 +1,20 @@
+Subject: Nýr póstur - "{FORUM_NAME}"
+
+Halló {USERNAME},
+
+Þú ert að fá þessa tilkynningu vegna þess að þú ert að fylgjast með umræðunni, "{TOPIC_TITLE}" á "{SITENAME}". Þessi umræða hefur fengið svar síðan þú komst síðast og þú getur notað eftirfarandi hlekk til að sjá svörin, engar fleyri tilkynningar verða sendar þangaðtil þú heimsækir umræðuna aftur.
+
+Ef þú villt fara beint á nýasta innleggið smelltu hér:
+{U_NEWEST_POST}
+
+Ef þú vilt skoða umræðuna, smelltu á þennann hlekk:
+{U_TOPIC}
+
+Ef þú villt skoða þetta spjallsvæði smelltu á eftirfarandi hlekk: 
+{U_FORUM}
+
+Ef þú vilt ekki lengur fá þessi skilaboð smelltu á þennann hlekk:
+
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

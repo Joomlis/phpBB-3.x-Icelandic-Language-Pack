@@ -1,0 +1,19 @@
+Subject: phpBB uppsett
+
+Til hamingju,
+
+Þér hefur tekist að setja upp phpBB á miðlaranum þínum.
+
+Þetta netfang inniheldur mikilvægar upplýsingar um uppsetninguna sem þú skalt geyma á góðum stað.  Lykilorðið er dulritað í gagnagrunninum og er ekki hægt að endurheimta þó hægt sé að biðja um nýtt ef þetta skildi glatast.
+
+----------------------------
+Notandanafn: {USERNAME}
+
+Vefslóð: {U_BOARD}
+----------------------------
+
+Gagnlegar upplýsingar um phpBB uppsetninguna er hægt að finna ofan í docs möppunni og á phpBB vefsíðunni - http://www.phpbb.com/support/
+
+Til að halda spjallborðinu öruggu skaltu passa upp á að fylgjast með nýjum útgáfum af phpBB og uppfæra reglulega.  Auðvelt er að skrá sig á póstlista phpBB og fá þannig sendar fréttir um nýjar útgáfur.  Sjá nánar á vefslóðinni hér að ofan.
+
+{EMAIL_SIG}

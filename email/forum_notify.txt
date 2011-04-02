@@ -1,0 +1,19 @@
+Subject: Nýr póstur - "{FORUM_NAME}"
+
+Halló {USERNAME},
+
+Þú fékkst þennann tölvupóst vegna þess að þú ert áskrifandi að spjallsvæðinu, "{FORUM_NAME}" á "{SITENAME}". Þetta spjallsvæði er komið með nýtt innlegg í umræðunni "{TOPIC_TITLE}" frá síðustu heimsókn þinni. Þú getur notað eftirfarandi hlekk til að lesa svarið.  Engar fleiri tilkynningar koma fyrir þessa umræðu fyrr en þú skoðar hana.
+
+{U_NEWEST_POST}
+
+Ef þú vilt skoða umræðuna, smelltu á þennann hlekk:
+{U_TOPIC}
+
+Þú getur heimsótt viðkomandi spjallflokk hér:
+{U_FORUM}
+
+Ef þú vilt ekki lengur fá þessi skilaboð smelltu á þennan hlekk:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

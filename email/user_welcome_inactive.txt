@@ -1,0 +1,21 @@
+Subject: Velkomin(n) á "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vinsamlegast geymdu þennan tölvupóst. Notandaupplýsingar þínar eru eftirfarandi:
+
+----------------------------
+Notandanafn: {USERNAME}
+
+Slóð á spjallborð: {U_BOARD}
+----------------------------
+
+Aðgangur þinn er óvirkur í augnablikinu. Þú getur ekki notað hann fyrr en þú ferð á eftirfarandi hlekk:
+
+{U_ACTIVATE}
+
+Vinsamlegast gleymdu ekki lykilorðinu vegna þess að það er dulkóðað í gagnagrunni okkar og við getum ekki flett því upp. Hinsvegar ef þú gleymir lykilorðinu þínu þá getur þú beðið um að fá nýtt lykilorð sem er virkjað á sama hátt og aðgangurinn þinn.
+
+Takk fyrir að skrá þig.
+
+{EMAIL_SIG}

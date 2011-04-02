@@ -1,0 +1,19 @@
+Subject: Velkomin(n) á "{SITENAME}"
+
+{WELCOME_MSG}
+
+Vinsamlegast geymdu þennan tölvupóst.  Upplýsingar um aðganginn þinn eru hér fyrir neðan:
+
+----------------------------
+Notandanafn: {USERNAME}
+
+Slóð á spjallborðið: {U_BOARD}
+----------------------------
+
+Aðgangur þinn er óvirkur í augnablikinu, stjórnandi verður að samþykkja þig áður en þú getur skráð þig inn. Þú færð annan tölvupóst þegar það hefur gerst.
+
+Vinsamlegast mundu að lykilorð þitt er dulkóðað í gagnagrunni okkar og við getum því ekki fundið það fyrir þig. Hinsvegar, ef þú gleymir lykilorðinu þá geturðu beðið um nýtt, sem verður að virkja alveg eins og þennan aðgang.
+
+Takk fyrir að skrá þig.
+
+{EMAIL_SIG}

@@ -1,0 +1,9 @@
+Subject: Virkja aðganginn þinn
+
+Halló {USERNAME},
+
+Aðgangur þinn á "{SITENAME}" hefur verið gerður óvirkur, líklega vegna breytinga á stillingunum þínum.  Til að gera hann aftur virkan skaltu smella á eftirfarandi hlekk:
+
+{U_ACTIVATE}
+
+{EMAIL_SIG}

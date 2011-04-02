@@ -1,0 +1,14 @@
+Subject: Póstur samþykktur - "{POST_SUBJECT}"
+
+Halló {USERNAME},
+
+Tilkynning um að pósturinn þinn "{POST_SUBJECT}" á "{SITENAME}" hefur verið samþykktur af umsjónarmanni.
+
+Kíktu á eftirfarandi hlekk til að skoða póstinn:
+{U_VIEW_POST}
+
+Kíktu á eftirfarandi hlekk til að skoða umræðurnar:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

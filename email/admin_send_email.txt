@@ -1,0 +1,16 @@
+
+Eftirfarandi er tölvupóstur sendur til þín frá stjórnanda á "{SITENAME}".  Ef
+þér finnst skilaboðin af einhverjum ástæðum óviðeigandi skaltu hafa samband
+við umsjónarfólk spjallborðsins á eftirfarandi póstfangi:
+
+{CONTACT_EMAIL}
+
+Láttu allan tölvupóstinn fylgja ásamt bréfhausum.
+
+Skilaboðin sem þér voru send eru:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

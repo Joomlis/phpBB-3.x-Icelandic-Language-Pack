@@ -1,0 +1,14 @@
+Subject: Virkja notanda
+
+Hæ,
+
+Notandanafnið "{USERNAME}" hefur verið gerður óvirkur eða var að skrá sig, þú ættir að athuga hvort er og gera það sem þarf að gera.
+
+Notaðu þennan hlekk til að sjá prófíl viðkomandi:
+{U_USER_DETAILS}
+
+Notaðu þennan hlekk til að virkja viðkomandi aðgang: 
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,8 @@
+Subject: Tilkynningu eytt - "{POST_SUBJECT}"
+
+Halló {USERNAME},
+
+Tilkynningu þinni um póstinn "{POST_SUBJECT}" í "{TOPIC_TITLE}" á "{SITENAME}" hefur verið eytt af umsjónarmanni.
+
+
+{EMAIL_SIG}

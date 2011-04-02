@@ -1,0 +1,12 @@
+Subject: Umræðum hafnað - "{TOPIC_TITLE}"
+
+Halló {USERNAME},
+
+Umræðunum þínar, "{TOPIC_TITLE}" á "{SITENAME}" hefur verið hafnað.
+
+Eftirfarandi ástæða var gefin upp fyrir höfnuninni:
+
+{REASON}
+
+
+{EMAIL_SIG}

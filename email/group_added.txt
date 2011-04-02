@@ -1,0 +1,11 @@
+Subject: Þér hefur verið bætt við hóp
+
+Til hamingju,
+
+Þér hefur verið bætt við hópinn "{GROUP_NAME}" á "{SITENAME}".
+Það var annaðhvort hópstjóri eða umsjónarmaður spjallborðsins sem bætti þér við, hafðu samband við þá til að fá meiri upplýsingar.
+
+Þú getur skoðað upplýsingar um hópinn hér:
+{U_GROUP}
+
+{EMAIL_SIG}

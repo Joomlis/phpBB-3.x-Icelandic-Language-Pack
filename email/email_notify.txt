@@ -1,0 +1,16 @@
+Subject: "{SITENAME}" - Tölvupóstur milli vina
+
+Halló {TO_USERNAME},
+
+Þessi tölvupóstur er sendur frá "{SITENAME]}" af {FROM_USERNAME} sem hélt að þú hefðir kannski áhuga á eftirfarandi umræðu:
+
+{TOPIC_NAME}
+
+Þú finnur hana á: 
+
+{U_TOPIC}
+
+Viðbótar skilaboð frá {FROM_USERNAME} gætu verið hér fyrir neðan.  Athugaðu að skilaboðin eru eingöngu frá viðkomandi og hafa ekki verið lesin yfir af umsjónarmönnum.  Ef þú hefur eitthvað við þau að athuga þá getur þú haft samband við umsjónarmenn á {BOARD_CONTACT}.  Vinsamlegast láttu bréfhausana fylgja með póstinum.
+----------
+
+{MESSAGE}

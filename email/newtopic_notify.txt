@@ -1,0 +1,13 @@
+Subject: Tilkynning um nýjar umræður - "{FORUM_NAME}"
+
+Halló {USERNAME},
+
+Þú færð þessa tilkynningu því þú ert áskrifandi að "{FORUM_NAME}" á "{SITENAME}".  Nýjar umræður, "{TOPIC_TITLE}", hafa bæst við síðan þú heimsóttir síðast.  Þú getur notað eftirfarandi tengil til að skoða spjallborðið.  Engar fleiri tilkynningar verða sendar þar til þú heimsækir spjallborðið aftur.
+
+{U_FORUM}
+
+Ef þú vilt slökkva á áskriftinni skaltu heimsækja eftirfarandi hlekk:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

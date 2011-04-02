@@ -1,0 +1,15 @@
+Subject: Ný einkaskilaboð
+
+Halló {USERNAME},
+
+Þú hefur fengið ný einkaskilaboð frá "{AUTHOR_NAME}" á "{SITENAME}" um eftirfarandi efni:
+
+{SUBJECT}
+
+Þú getur skoðað skilaboðin með því að smella á eftirfarandi hlekk:
+
+{U_INBOX}
+
+Þú hefur beðið um að fá tilkynningar þegar þú færð einkapóst.  Mundu að þú getur alltaf breytt þessum stillingum á síðunni.
+
+{EMAIL_SIG}
